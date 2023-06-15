@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "128620963244",
+    "project_id": "appformuario",
+    "storage_bucket": "appformuario.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128620963244:android:ff0b27c7369a86db028609",
+        "android_client_info": {
+          "package_name": "com.example.prueba3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128620963244-on5mtlvcpars1mlgbsluo2mp9pcd78jo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaZeImwlUPx1124y8fqaoLhBlHAq2UzNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128620963244-on5mtlvcpars1mlgbsluo2mp9pcd78jo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
